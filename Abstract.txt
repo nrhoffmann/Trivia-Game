@@ -1,0 +1,10 @@
+If my name is foo, then I am a...;variable;bird;platypus;jedi;0;
+How do you spell get?;take;receive;give;have;2;
+Snap, Crackle...;Ding;Knock;Pop;Boink;2;
+How much wood could a woodchuck chuck if a woodchuck could chuck wood?;361.9237001cm^3 per animals per day;95.001ft^3 per chuck per hour;46;.82yd^3 in the months between September and August;0;
+9,6,8,2,5...;1;3;0;7;1;
+What is happiness made out of?;the best stuff on earth;sunshine;@;ice and custard;3;
+I have a colorful personality.;Ray H. Vee;Roy G. Biv;Rick A. Num;Goy L. Gary;2;
+Why did 6 run away from 7;789;345;123;098;0;
+What is the difference between elephants and grapes?;about 2 dollars;you can legally poach grapes;grapes are purple;nothing;2;
+What does the fox say?;ring-ding-ding-ding-dingeringeding;wa-pa-pa-pa-pa-pa-pow;hatee-hatee-hatee-ho;You will never know. The secret of the fox is an ancient mystery.;-1;

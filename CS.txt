@@ -1,0 +1,10 @@
+A byte is made up of eight...;CPUs;addresses;variables;bits;3;
+The Java compiler generates...;machine code;byte code;source code;HTML;1;
+This key word is used to declare a named constant.;constant;namedConstant;final;concrete;2;
+You can use this class to display dialog boxes.;JOptionPane;BufferedReader;InputStreamReader;DialogBox;0;
+This is a boolean variable that signals when some condition exists in the program.;flag;signal;sentinel;siren;0;
+This section of a switch statement is branched to if none of the case expressions match the switch expression.;else;default;case;otherwise;1;
+In the expression number++, the ++ operator is in what mode?;prefix;pretest;postfix;posttest;2;
+This type of loop always executes at least once.;while;do-while;for;any of these;1;
+This statement causes a method to end and sends a value back to the statement that called the method.;end;send;exit;return;3;
+The body of a method is enclosed in...;curly braces;square brackets;parentheses;quotation marks;0;
